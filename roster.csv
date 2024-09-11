@@ -1,0 +1,26 @@
+playername,team_name,position,dob,country,countrycode,region,age,height,foot
+Wojciech Szczesny,Arsenal FC,Goalkeeper,1990-04-18,Poland,POL,Europe,24.0,1.96,right
+Laurent Koscielny,Arsenal FC,Defender,1985-09-10,France,FRA,Europe,28.0,1.85,right
+Calum Chambers,Arsenal FC,Defender,1995-01-20,UK,GBR,Europe,19.0,1.82,right
+Kieran Gibbs,Arsenal FC,Defender,1989-09-26,UK,GBR,Europe,24.0,1.8,left
+Mathieu Debuchy,Arsenal FC,Defender,1985-07-28,France,FRA,Europe,29.0,1.77,right
+Mikel Arteta,Arsenal FC,Midfielder,1982-03-26,Spain,ESP,Europe,32.0,1.77,right
+Jack Wilshere,Arsenal FC,Midfielder,1992-01-01,UK,GBR,Europe,22.0,1.72,left
+Aaron Ramsey,Arsenal FC,Midfielder,1990-12-26,UK,GBR,Europe,23.0,1.82,both
+Santi Cazorla,Arsenal FC,Midfielder,1984-12-13,Spain,ESP,Europe,29.0,1.68,both
+Alexis Sánchez,Arsenal FC,Forward,1988-12-19,Chile,CHL,Americas,25.0,1.68,right
+Yaya Sanogo,Arsenal FC,Forward,1993-01-27,France,FRA,Europe,21.0,1.94,right
+Per Mertesacker,Arsenal FC,Defender,1984-09-29,Germany,DEU,Europe,29.0,2.0,right
+Nacho Monreal,Arsenal FC,Defender,1986-02-26,Spain,ESP,Europe,28.0,1.8,left
+Mathieu Flamini,Arsenal FC,Midfielder,1984-03-07,France,FRA,Europe,30.0,1.78,right
+Alex Oxlade-Chamberlain,Arsenal FC,Midfielder,1993-08-15,UK,GBR,Europe,20.0,1.75,right
+Mesut Özil,Arsenal FC,Midfielder,1988-10-15,Germany,DEU,Europe,25.0,1.8,left
+Danny Welbeck,Arsenal FC,Forward,1990-11-26,UK,GBR,Europe,23.0,1.85,right
+Héctor Bellerín,Arsenal FC,Defender,1995-03-19,Spain,ESP,Europe,19.0,1.78,right
+Emiliano Martínez,Arsenal FC,Goalkeeper,1992-09-02,Argentina,ARG,Americas,21.0,1.95,right
+Olivier Giroud,Arsenal FC,Forward,1986-09-30,France,FRA,Europe,27.0,1.93,left
+Tomas Rosicky,Arsenal FC,Midfielder,1980-10-04,Czechia,CZE,Europe,33.0,1.79,both
+Francis Coquelin,Arsenal FC,Midfielder,1991-05-13,France,FRA,Europe,23.0,1.77,right
+David Ospina,Arsenal FC,Goalkeeper,1988-08-31,Colombia,COL,Americas,25.0,1.83,right
+Theo Walcott,Arsenal FC,Forward,1989-03-16,UK,GBR,Europe,25.0,1.75,both
+Gabriel Paulista,Arsenal FC,Defender,1990-11-26,Brazil,BRA,Americas,23.0,1.87,right
